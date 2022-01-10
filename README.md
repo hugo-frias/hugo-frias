@@ -11,7 +11,7 @@
 ------
 
 
-<img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hugo-frias&layout=compact&langs_count=8&theme=algolia" align="right"/>
+<img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hugo-frias&layout=compact&langs_count=8&theme=algolia" align="right"/>
 
 
 <p align="left">
