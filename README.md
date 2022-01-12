@@ -43,5 +43,5 @@
 ----------
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=hugo-frias&color=blue" alt="watching_count" />
-<img src="https://img.shields.io/github/followers/hugo-frias?label=Follow&style=social" />
- </p>
+<!--<img src="https://img.shields.io/github/followers/hugo-frias?label=Follow&style=social" /> -->
+</p>
