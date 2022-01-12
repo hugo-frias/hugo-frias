@@ -37,8 +37,6 @@
  
 </p>
 <h3> Contacta-me! </h3>
-<a href="https://instagram.com/thehugofrias"><img src="https://img.shields.io/badge/-@thehugofrias-05122A?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/thehugofrias"><img src="https://img.shields.io/badge/-@thehugofrias-05122A?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/hugo-frias"><img src="https://img.shields.io/badge/-Hugo%20Frias-05122A?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hugofilipefrias@gmail.com"><img src="https://img.shields.io/badge/-hugofilipefrias@gmail.com-05122A?style=flat&logo=Gmail&logoColor=white"/></a>
 
