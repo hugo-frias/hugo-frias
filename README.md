@@ -2,7 +2,7 @@
 
 
 ✔ Olá, chamo-me **Hugo Frias** <br>
-✔ Tenho 22 anos e sou do Porto, Portugal <br>
+✔ Tenho 23 anos e sou do Porto, Portugal <br>
 ✔ Tenho uma [Licenciatura em **Engenharia Informática**](https://www.isep.ipp.pt/Course/Course/26) obtida no [ISEP](https://www.isep.ipp.pt/)<br>
 ✔ Adoro criar projetos no meu tempo livre (criei recentemente um canal de youtube automatizado que pode ser visto neste [repo](https://github.com/hugo-frias/best-of-reddit-video-generator))<br>
 
