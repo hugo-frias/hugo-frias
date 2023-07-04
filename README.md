@@ -5,7 +5,7 @@
 ✔ Tenho 23 anos e sou do Porto, Portugal <br>
 ✔ Tenho uma [Licenciatura em **Engenharia Informática**](https://www.isep.ipp.pt/Course/Course/26) obtida no [ISEP](https://www.isep.ipp.pt/)<br>
 ✔ Adoro criar projetos no meu tempo livre (criei recentemente um canal de youtube automatizado que pode ser visto neste [repo](https://github.com/hugo-frias/you-reddit-automated-video-generator))<br>
-✔ Vê o meu [CV]([https://github.com/hugo-frias/you-reddit-automated-video-generator](https://github.com/hugo-frias/hugo-frias/blob/main/Hugo%20Frias%20CV.pdf)) se quiseres mais detalhes! <br>
+✔ Vê o meu [CV](https://github.com/hugo-frias/hugo-frias/blob/main/Hugo%20Frias%20CV.pdf) se quiseres mais detalhes! <br>
 
 
 
