@@ -1,11 +1,11 @@
 <h2 align="center"> Welcome Friend! </h2>
 
 
-✔ Olá, chamo-me **Hugo Frias** <br>
-✔ Tenho 26 anos e sou do Porto, Portugal <br>
-✔ Tenho uma [Licenciatura em **Engenharia Informática**](https://www.isep.ipp.pt/Course/Course/26) obtida no [ISEP](https://www.isep.ipp.pt/)<br>
-✔ Adoro criar projetos no meu tempo livre (criei recentemente um canal de youtube automatizado que pode ser visto neste [repo](https://github.com/hugo-frias/you-reddit-automated-video-generator))<br>
-✔ Vê o meu [CV](https://github.com/hugo-frias/hugo-frias/blob/main/Hugo%20Frias%20CV.pdf) se quiseres mais detalhes! <br>
+✔ Hello, I'm **Hugo Frias**! <br>
+✔ I'm 26 years old, and I'm from Porto, Portugal <br>
+✔ I have a [Bachelor's Degree in **Computer Science**](https://www.isep.ipp.pt/Course/Course/26) obtained at [ISEP](https://www.isep.ipp.pt/)<br>
+✔ I love creating projects in my free time (I recently created an automated YouTube channel, which you can see in this [repo](https://github.com/hugo-frias/you-reddit-automated-video-generator))<br>
+✔ Check out my [CV](https://github.com/hugo-frias/hugo-frias/blob/main/Hugo%20Frias%20CV.pdf) if you want more details! <br>
 
 
 
